@@ -1,0 +1,17 @@
+.currency__header{
+  text-align: center;
+}
+
+.currency__flag img {
+  object-fit: cover;
+}
+
+.currency__title{
+  font-size: 2rem;
+  margin: 5px 0;
+}
+
+.currency__body{
+  font-size: 1.3rem;
+  margin: 10px 0 15px 0;
+}
